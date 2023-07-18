@@ -36,12 +36,3 @@ if (username1 === username2) {
   console.log("i nomi degli utenti sono uguali");
 }
 
-// Dato un numero controllare se il suo valore esiste, se esiste, stampare in console il valore esiste o se non esiste stampare non esiste IN CONSOLE
-
-let num5 = 5;
-
-if (num5) {
-  console.log("esiste");
-} else {
-  console.log("non esiste");
-}
